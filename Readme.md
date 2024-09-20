@@ -1,3 +1,5 @@
+[![Open in DevZero](https://assets.devzero.io/open-in-devzero.svg)](https://www.devzero.io/dashboard/recipes/new?repo-url=https://github.com/segmentio/analytics.js)
+
 ⚠️ Be sure to check out the next generation of analytics.js! https://github.com/segmentio/analytics-next 🎉 
 If you have an existing JavaScript source with Segment, you can enable Analytics Next in the settings of the source.
 
